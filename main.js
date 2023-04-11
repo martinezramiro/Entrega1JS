@@ -41,8 +41,8 @@ for (let i = -1 ; i < arrayNumero ; i++) {
 }*/
 
 /*5*/
-let palabra = prompt ("Escriba una palabra");
-let numero = prompt ("Escriba un número");
+/*let palabra = prompt ("Escriba una palabra");
+let numero = prompt ("Escriba un número");*/
 
 
 /*6*/
